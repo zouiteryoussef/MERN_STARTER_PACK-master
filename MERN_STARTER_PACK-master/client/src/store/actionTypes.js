@@ -1,0 +1,3 @@
+export const POPULATE_PRODUCTS = "POPULATE_PRODUCTS";
+
+export const SAVE_PRODUCT = "SAVE_PRODUCT";
